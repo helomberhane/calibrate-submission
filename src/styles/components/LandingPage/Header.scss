@@ -1,0 +1,32 @@
+.header__main_header {
+	color: #8f67e9;;
+	font-size: 48px;
+	text-align: center;
+	width: auto;
+}
+
+.header__menu_item_header:hover {
+	cursor: pointer;
+	color: #8f67e9;
+	text-decoration: underline;
+}
+
+.header__menu_item_header {
+	color: #211e3f;
+	text-align: center;
+}
+
+.header__counter_title_span {
+	font-weight: bold;
+}
+
+.header__order_status {
+	height: 30px;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.header__counter_title {
+	text-align: center;
+}
+
